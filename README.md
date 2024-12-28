@@ -1,1 +1,2 @@
-# NLP
+**Abstract:**
+This project proposes an RNN-based model using Natural Language Processing (NLP) to classify songs into genres based on their lyrics. The model utilizes Long Short-Term Memory (LSTM) combined with Universal Sentence Encoder (USE) and BERT embeddings. A comparative study shows that the LSTM model with USE embedding achieves the highest accuracy of 83.42%, outperforming the BERT model. This tool helps music enthusiasts quickly identify a song's genre, addressing the challenge of sorting a vast range of music tastes and fresh releases.
